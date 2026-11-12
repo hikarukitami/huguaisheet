@@ -8,3 +8,4 @@
 
 window.APP_CONFIG = {
      API_URL: 'https://script.google.com/macros/s/AKfycbzeFF8-ssB_E6AJwYh8z_xoFy566lJ-Rwg2Iu8v4EqhcmlJ9wTLETwsT2N-mSWBxZ8P/exec',
+};
