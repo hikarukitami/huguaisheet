@@ -7,5 +7,4 @@
 // ※共有パスワードはここには書きません（このファイルは誰でも見られるため）
 
 window.APP_CONFIG = {
-  API_URL: '   API_URL: 'https://script.google.com/macros/s/AKfycb……/exec'
-};
+     API_URL: 'https://script.google.com/macros/s/AKfycbzeFF8-ssB_E6AJwYh8z_xoFy566lJ-Rwg2Iu8v4EqhcmlJ9wTLETwsT2N-mSWBxZ8P/exec',
